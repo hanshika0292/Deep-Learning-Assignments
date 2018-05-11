@@ -15,7 +15,7 @@ Now in process of convolution, each element of filter matrix is multiplied on th
 
 In this case, it generates a feature map of dimensions (398x398x3)
 
-![con im.gif](\:storage\0.i939i0hg1ue.gif)
+![](https://github.com/hanshika0292/Deep-Learning-Assignments/blob/master/con%20im.gif)
 
 # Topic 2: 1x1 Convolution
 
@@ -23,7 +23,7 @@ In this case, it generates a feature map of dimensions (398x398x3)
 > Purpose of 1x1 convolution is feature pooling. whereby it sum pools the features of various channels/feature-maps of a given layer. 
 > 1x1 convolutional filter behaves exactly the same as normal filter. Only thing is, it does not care about the correlation of information in the same feature map. Meaning, there is no visual pattern being learned in here. Instead, the filter pools the information across multiple feature maps.
 
-![1x1 conv.gif](\:storage\0.xb1rvq1df38.gif)
+![](https://github.com/hanshika0292/Deep-Learning-Assignments/blob/master/1x1%20conv.gif)
 
 #### Example -
  There is a RGB image 400 x 400 on which convolution is to be done.
